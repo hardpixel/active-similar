@@ -1,0 +1,20 @@
+require:
+  - rubocop-performance
+  - rubocop-rails
+
+AllCops:
+  TargetRubyVersion: 2.6
+  NewCops: enable
+  Include:
+    - 'lib/**/*'
+    - 'test/**/*'
+
+Naming/PredicateName:
+  AllowedMethods:
+    - has_similar
+
+Rails/RefuteMethods:
+  Enabled: false
+
+Layout/ArgumentAlignment:
+  Enabled: false
