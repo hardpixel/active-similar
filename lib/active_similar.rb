@@ -22,7 +22,7 @@ module ActiveSimilar
 
       define_method(name) do
         similar = Query.new(scope, through: through, prefix: name)
-        similar.with(id)
+        similar.with(self)
       end
     end
   end
