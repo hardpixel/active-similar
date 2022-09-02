@@ -4,7 +4,7 @@ Ruby gem to find similar Active Record models through most common associations.
 
 [![Gem Version](https://badge.fury.io/rb/active_similar.svg)](https://badge.fury.io/rb/active_similar)
 [![Build](https://github.com/hardpixel/active-similar/actions/workflows/build.yml/badge.svg)](https://github.com/hardpixel/active-similar/actions/workflows/build.yml)
-[![Maintainability](https://api.codeclimate.com/v1/badges/9070ea120ceeddbcc1d2/maintainability)](https://codeclimate.com/github/hardpixel/active-similar/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/741c7fbb7ebb32bc0559/maintainability)](https://codeclimate.com/github/hardpixel/active-similar/maintainability)
 
 ## Installation
 
