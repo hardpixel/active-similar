@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Find similar Active Record models through their associations'
   spec.description   = 'Find similar Active Record models through most common associations.'
-  spec.homepage      = 'https://github.com/hardpixel/active_similar'
+  spec.homepage      = 'https://github.com/hardpixel/active-similar'
   spec.license       = 'MIT'
 
   spec.files         = Dir['lib/**/*', '*.{md,txt}']
